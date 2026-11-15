@@ -1,0 +1,2348 @@
+[
+  {
+    "path": "events/main/wisdm/fold0_seed13_part00.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/wisdm/fold0_seed13_part01.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/wisdm/fold0_seed13_part02.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/wisdm/fold0_seed13_part03.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/wisdm/fold0_seed13_part04.csv.gz",
+    "cases": 206,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/wisdm/fold0_seed37_part00.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/wisdm/fold0_seed37_part01.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/wisdm/fold0_seed37_part02.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/wisdm/fold0_seed37_part03.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/wisdm/fold0_seed37_part04.csv.gz",
+    "cases": 206,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/wisdm/fold0_seed73_part00.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/wisdm/fold0_seed73_part01.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/wisdm/fold0_seed73_part02.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/wisdm/fold0_seed73_part03.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/wisdm/fold0_seed73_part04.csv.gz",
+    "cases": 206,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/wisdm/fold1_seed13_part00.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/wisdm/fold1_seed13_part01.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/wisdm/fold1_seed13_part02.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/wisdm/fold1_seed13_part03.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/wisdm/fold1_seed13_part04.csv.gz",
+    "cases": 206,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/wisdm/fold1_seed37_part00.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/wisdm/fold1_seed37_part01.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/wisdm/fold1_seed37_part02.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/wisdm/fold1_seed37_part03.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/wisdm/fold1_seed37_part04.csv.gz",
+    "cases": 206,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/wisdm/fold1_seed73_part00.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/wisdm/fold1_seed73_part01.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/wisdm/fold1_seed73_part02.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/wisdm/fold1_seed73_part03.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/wisdm/fold1_seed73_part04.csv.gz",
+    "cases": 206,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/wisdm/fold2_seed13_part00.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/wisdm/fold2_seed13_part01.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/wisdm/fold2_seed13_part02.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/wisdm/fold2_seed13_part03.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/wisdm/fold2_seed13_part04.csv.gz",
+    "cases": 206,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/wisdm/fold2_seed37_part00.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/wisdm/fold2_seed37_part01.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/wisdm/fold2_seed37_part02.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/wisdm/fold2_seed37_part03.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/wisdm/fold2_seed37_part04.csv.gz",
+    "cases": 206,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/wisdm/fold2_seed73_part00.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/wisdm/fold2_seed73_part01.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/wisdm/fold2_seed73_part02.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/wisdm/fold2_seed73_part03.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/wisdm/fold2_seed73_part04.csv.gz",
+    "cases": 206,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/mhealth/fold0_seed13_part00.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/mhealth/fold0_seed13_part01.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/mhealth/fold0_seed13_part02.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/mhealth/fold0_seed13_part03.csv.gz",
+    "cases": 60,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/mhealth/fold0_seed37_part00.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/mhealth/fold0_seed37_part01.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/mhealth/fold0_seed37_part02.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/mhealth/fold0_seed37_part03.csv.gz",
+    "cases": 60,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/mhealth/fold0_seed73_part00.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/mhealth/fold0_seed73_part01.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/mhealth/fold0_seed73_part02.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/mhealth/fold0_seed73_part03.csv.gz",
+    "cases": 60,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/mhealth/fold1_seed13_part00.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/mhealth/fold1_seed13_part01.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/mhealth/fold1_seed13_part02.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/mhealth/fold1_seed13_part03.csv.gz",
+    "cases": 60,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/mhealth/fold1_seed37_part00.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/mhealth/fold1_seed37_part01.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/mhealth/fold1_seed37_part02.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/mhealth/fold1_seed37_part03.csv.gz",
+    "cases": 60,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/mhealth/fold1_seed73_part00.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/mhealth/fold1_seed73_part01.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/mhealth/fold1_seed73_part02.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/mhealth/fold1_seed73_part03.csv.gz",
+    "cases": 60,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/mhealth/fold2_seed13_part00.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/mhealth/fold2_seed13_part01.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/mhealth/fold2_seed13_part02.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/mhealth/fold2_seed13_part03.csv.gz",
+    "cases": 60,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/mhealth/fold2_seed37_part00.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/mhealth/fold2_seed37_part01.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/mhealth/fold2_seed37_part02.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/mhealth/fold2_seed37_part03.csv.gz",
+    "cases": 60,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/mhealth/fold2_seed73_part00.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/mhealth/fold2_seed73_part01.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/mhealth/fold2_seed73_part02.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/main/mhealth/fold2_seed73_part03.csv.gz",
+    "cases": 60,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "v1_adaptive",
+      "layer_replay",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/no_cache/wisdm/fold0_seed13_part00.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "recent_replay"
+    ]
+  },
+  {
+    "path": "events/no_cache/wisdm/fold0_seed13_part01.csv.gz",
+    "cases": 23,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "recent_replay"
+    ]
+  },
+  {
+    "path": "events/no_cache/wisdm/fold0_seed37_part00.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "recent_replay"
+    ]
+  },
+  {
+    "path": "events/no_cache/wisdm/fold0_seed37_part01.csv.gz",
+    "cases": 23,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "recent_replay"
+    ]
+  },
+  {
+    "path": "events/no_cache/wisdm/fold0_seed73_part00.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "recent_replay"
+    ]
+  },
+  {
+    "path": "events/no_cache/wisdm/fold0_seed73_part01.csv.gz",
+    "cases": 23,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "recent_replay"
+    ]
+  },
+  {
+    "path": "events/no_cache/wisdm/fold1_seed13_part00.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "recent_replay"
+    ]
+  },
+  {
+    "path": "events/no_cache/wisdm/fold1_seed13_part01.csv.gz",
+    "cases": 23,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "recent_replay"
+    ]
+  },
+  {
+    "path": "events/no_cache/wisdm/fold1_seed37_part00.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "recent_replay"
+    ]
+  },
+  {
+    "path": "events/no_cache/wisdm/fold1_seed37_part01.csv.gz",
+    "cases": 23,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "recent_replay"
+    ]
+  },
+  {
+    "path": "events/no_cache/wisdm/fold1_seed73_part00.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "recent_replay"
+    ]
+  },
+  {
+    "path": "events/no_cache/wisdm/fold1_seed73_part01.csv.gz",
+    "cases": 23,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "recent_replay"
+    ]
+  },
+  {
+    "path": "events/no_cache/wisdm/fold2_seed13_part00.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "recent_replay"
+    ]
+  },
+  {
+    "path": "events/no_cache/wisdm/fold2_seed13_part01.csv.gz",
+    "cases": 23,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "recent_replay"
+    ]
+  },
+  {
+    "path": "events/no_cache/wisdm/fold2_seed37_part00.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "recent_replay"
+    ]
+  },
+  {
+    "path": "events/no_cache/wisdm/fold2_seed37_part01.csv.gz",
+    "cases": 23,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "recent_replay"
+    ]
+  },
+  {
+    "path": "events/no_cache/wisdm/fold2_seed73_part00.csv.gz",
+    "cases": 232,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "recent_replay"
+    ]
+  },
+  {
+    "path": "events/no_cache/wisdm/fold2_seed73_part01.csv.gz",
+    "cases": 23,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "recent_replay"
+    ]
+  },
+  {
+    "path": "events/no_cache/mhealth/fold0_seed13_part00.csv.gz",
+    "cases": 60,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "recent_replay"
+    ]
+  },
+  {
+    "path": "events/no_cache/mhealth/fold0_seed37_part00.csv.gz",
+    "cases": 60,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "recent_replay"
+    ]
+  },
+  {
+    "path": "events/no_cache/mhealth/fold0_seed73_part00.csv.gz",
+    "cases": 60,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "recent_replay"
+    ]
+  },
+  {
+    "path": "events/no_cache/mhealth/fold1_seed13_part00.csv.gz",
+    "cases": 45,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "recent_replay"
+    ]
+  },
+  {
+    "path": "events/no_cache/mhealth/fold1_seed37_part00.csv.gz",
+    "cases": 45,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "recent_replay"
+    ]
+  },
+  {
+    "path": "events/no_cache/mhealth/fold1_seed73_part00.csv.gz",
+    "cases": 45,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "recent_replay"
+    ]
+  },
+  {
+    "path": "events/no_cache/mhealth/fold2_seed13_part00.csv.gz",
+    "cases": 45,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "recent_replay"
+    ]
+  },
+  {
+    "path": "events/no_cache/mhealth/fold2_seed37_part00.csv.gz",
+    "cases": 45,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "recent_replay"
+    ]
+  },
+  {
+    "path": "events/no_cache/mhealth/fold2_seed73_part00.csv.gz",
+    "cases": 45,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "recent_replay"
+    ]
+  },
+  {
+    "path": "events/ablation/wisdm/fold0_seed13_part00.csv.gz",
+    "cases": 187,
+    "methods": [
+      "tap",
+      "age_mask",
+      "age_equal",
+      "recent_replay",
+      "accumulator",
+      "generic",
+      "no_delta",
+      "all_taps",
+      "no_equal",
+      "serial"
+    ]
+  },
+  {
+    "path": "events/ablation/wisdm/fold0_seed37_part00.csv.gz",
+    "cases": 187,
+    "methods": [
+      "tap",
+      "age_mask",
+      "age_equal",
+      "recent_replay",
+      "accumulator",
+      "generic",
+      "no_delta",
+      "all_taps",
+      "no_equal",
+      "serial"
+    ]
+  },
+  {
+    "path": "events/ablation/wisdm/fold0_seed73_part00.csv.gz",
+    "cases": 187,
+    "methods": [
+      "tap",
+      "age_mask",
+      "age_equal",
+      "recent_replay",
+      "accumulator",
+      "generic",
+      "no_delta",
+      "all_taps",
+      "no_equal",
+      "serial"
+    ]
+  },
+  {
+    "path": "events/ablation/wisdm/fold1_seed13_part00.csv.gz",
+    "cases": 187,
+    "methods": [
+      "tap",
+      "age_mask",
+      "age_equal",
+      "recent_replay",
+      "accumulator",
+      "generic",
+      "no_delta",
+      "all_taps",
+      "no_equal",
+      "serial"
+    ]
+  },
+  {
+    "path": "events/ablation/wisdm/fold1_seed37_part00.csv.gz",
+    "cases": 187,
+    "methods": [
+      "tap",
+      "age_mask",
+      "age_equal",
+      "recent_replay",
+      "accumulator",
+      "generic",
+      "no_delta",
+      "all_taps",
+      "no_equal",
+      "serial"
+    ]
+  },
+  {
+    "path": "events/ablation/wisdm/fold1_seed73_part00.csv.gz",
+    "cases": 187,
+    "methods": [
+      "tap",
+      "age_mask",
+      "age_equal",
+      "recent_replay",
+      "accumulator",
+      "generic",
+      "no_delta",
+      "all_taps",
+      "no_equal",
+      "serial"
+    ]
+  },
+  {
+    "path": "events/ablation/wisdm/fold2_seed13_part00.csv.gz",
+    "cases": 187,
+    "methods": [
+      "tap",
+      "age_mask",
+      "age_equal",
+      "recent_replay",
+      "accumulator",
+      "generic",
+      "no_delta",
+      "all_taps",
+      "no_equal",
+      "serial"
+    ]
+  },
+  {
+    "path": "events/ablation/wisdm/fold2_seed37_part00.csv.gz",
+    "cases": 187,
+    "methods": [
+      "tap",
+      "age_mask",
+      "age_equal",
+      "recent_replay",
+      "accumulator",
+      "generic",
+      "no_delta",
+      "all_taps",
+      "no_equal",
+      "serial"
+    ]
+  },
+  {
+    "path": "events/ablation/wisdm/fold2_seed73_part00.csv.gz",
+    "cases": 187,
+    "methods": [
+      "tap",
+      "age_mask",
+      "age_equal",
+      "recent_replay",
+      "accumulator",
+      "generic",
+      "no_delta",
+      "all_taps",
+      "no_equal",
+      "serial"
+    ]
+  },
+  {
+    "path": "events/ablation/mhealth/fold0_seed13_part00.csv.gz",
+    "cases": 44,
+    "methods": [
+      "tap",
+      "age_mask",
+      "age_equal",
+      "recent_replay",
+      "accumulator",
+      "generic",
+      "no_delta",
+      "all_taps",
+      "no_equal",
+      "serial"
+    ]
+  },
+  {
+    "path": "events/ablation/mhealth/fold0_seed37_part00.csv.gz",
+    "cases": 44,
+    "methods": [
+      "tap",
+      "age_mask",
+      "age_equal",
+      "recent_replay",
+      "accumulator",
+      "generic",
+      "no_delta",
+      "all_taps",
+      "no_equal",
+      "serial"
+    ]
+  },
+  {
+    "path": "events/ablation/mhealth/fold0_seed73_part00.csv.gz",
+    "cases": 44,
+    "methods": [
+      "tap",
+      "age_mask",
+      "age_equal",
+      "recent_replay",
+      "accumulator",
+      "generic",
+      "no_delta",
+      "all_taps",
+      "no_equal",
+      "serial"
+    ]
+  },
+  {
+    "path": "events/ablation/mhealth/fold1_seed13_part00.csv.gz",
+    "cases": 33,
+    "methods": [
+      "tap",
+      "age_mask",
+      "age_equal",
+      "recent_replay",
+      "accumulator",
+      "generic",
+      "no_delta",
+      "all_taps",
+      "no_equal",
+      "serial"
+    ]
+  },
+  {
+    "path": "events/ablation/mhealth/fold1_seed37_part00.csv.gz",
+    "cases": 33,
+    "methods": [
+      "tap",
+      "age_mask",
+      "age_equal",
+      "recent_replay",
+      "accumulator",
+      "generic",
+      "no_delta",
+      "all_taps",
+      "no_equal",
+      "serial"
+    ]
+  },
+  {
+    "path": "events/ablation/mhealth/fold1_seed73_part00.csv.gz",
+    "cases": 33,
+    "methods": [
+      "tap",
+      "age_mask",
+      "age_equal",
+      "recent_replay",
+      "accumulator",
+      "generic",
+      "no_delta",
+      "all_taps",
+      "no_equal",
+      "serial"
+    ]
+  },
+  {
+    "path": "events/ablation/mhealth/fold2_seed13_part00.csv.gz",
+    "cases": 33,
+    "methods": [
+      "tap",
+      "age_mask",
+      "age_equal",
+      "recent_replay",
+      "accumulator",
+      "generic",
+      "no_delta",
+      "all_taps",
+      "no_equal",
+      "serial"
+    ]
+  },
+  {
+    "path": "events/ablation/mhealth/fold2_seed37_part00.csv.gz",
+    "cases": 33,
+    "methods": [
+      "tap",
+      "age_mask",
+      "age_equal",
+      "recent_replay",
+      "accumulator",
+      "generic",
+      "no_delta",
+      "all_taps",
+      "no_equal",
+      "serial"
+    ]
+  },
+  {
+    "path": "events/ablation/mhealth/fold2_seed73_part00.csv.gz",
+    "cases": 33,
+    "methods": [
+      "tap",
+      "age_mask",
+      "age_equal",
+      "recent_replay",
+      "accumulator",
+      "generic",
+      "no_delta",
+      "all_taps",
+      "no_equal",
+      "serial"
+    ]
+  },
+  {
+    "path": "events/zero_cache/wisdm/fold0_seed13_part00.csv.gz",
+    "cases": 232,
+    "methods": [
+      "tap_equal",
+      "recent_replay"
+    ]
+  },
+  {
+    "path": "events/zero_cache/wisdm/fold0_seed13_part01.csv.gz",
+    "cases": 23,
+    "methods": [
+      "tap_equal",
+      "recent_replay"
+    ]
+  },
+  {
+    "path": "events/zero_cache/wisdm/fold1_seed13_part00.csv.gz",
+    "cases": 232,
+    "methods": [
+      "tap_equal",
+      "recent_replay"
+    ]
+  },
+  {
+    "path": "events/zero_cache/wisdm/fold1_seed13_part01.csv.gz",
+    "cases": 23,
+    "methods": [
+      "tap_equal",
+      "recent_replay"
+    ]
+  },
+  {
+    "path": "events/zero_cache/wisdm/fold2_seed13_part00.csv.gz",
+    "cases": 232,
+    "methods": [
+      "tap_equal",
+      "recent_replay"
+    ]
+  },
+  {
+    "path": "events/zero_cache/wisdm/fold2_seed13_part01.csv.gz",
+    "cases": 23,
+    "methods": [
+      "tap_equal",
+      "recent_replay"
+    ]
+  },
+  {
+    "path": "events/zero_cache/mhealth/fold0_seed13_part00.csv.gz",
+    "cases": 60,
+    "methods": [
+      "tap_equal",
+      "recent_replay"
+    ]
+  },
+  {
+    "path": "events/zero_cache/mhealth/fold1_seed13_part00.csv.gz",
+    "cases": 45,
+    "methods": [
+      "tap_equal",
+      "recent_replay"
+    ]
+  },
+  {
+    "path": "events/zero_cache/mhealth/fold2_seed13_part00.csv.gz",
+    "cases": 45,
+    "methods": [
+      "tap_equal",
+      "recent_replay"
+    ]
+  },
+  {
+    "path": "events/cache4/wisdm/fold0_seed13_part00.csv.gz",
+    "cases": 232,
+    "methods": [
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/cache4/wisdm/fold0_seed13_part01.csv.gz",
+    "cases": 23,
+    "methods": [
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/cache4/wisdm/fold1_seed13_part00.csv.gz",
+    "cases": 232,
+    "methods": [
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/cache4/wisdm/fold1_seed13_part01.csv.gz",
+    "cases": 23,
+    "methods": [
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/cache4/wisdm/fold2_seed13_part00.csv.gz",
+    "cases": 232,
+    "methods": [
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/cache4/wisdm/fold2_seed13_part01.csv.gz",
+    "cases": 23,
+    "methods": [
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/cache4/mhealth/fold0_seed13_part00.csv.gz",
+    "cases": 60,
+    "methods": [
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/cache4/mhealth/fold1_seed13_part00.csv.gz",
+    "cases": 45,
+    "methods": [
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/cache4/mhealth/fold2_seed13_part00.csv.gz",
+    "cases": 45,
+    "methods": [
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/cache8/wisdm/fold0_seed13_part00.csv.gz",
+    "cases": 232,
+    "methods": [
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/cache8/wisdm/fold0_seed13_part01.csv.gz",
+    "cases": 23,
+    "methods": [
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/cache8/wisdm/fold1_seed13_part00.csv.gz",
+    "cases": 232,
+    "methods": [
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/cache8/wisdm/fold1_seed13_part01.csv.gz",
+    "cases": 23,
+    "methods": [
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/cache8/wisdm/fold2_seed13_part00.csv.gz",
+    "cases": 232,
+    "methods": [
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/cache8/wisdm/fold2_seed13_part01.csv.gz",
+    "cases": 23,
+    "methods": [
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/cache8/mhealth/fold0_seed13_part00.csv.gz",
+    "cases": 60,
+    "methods": [
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/cache8/mhealth/fold1_seed13_part00.csv.gz",
+    "cases": 45,
+    "methods": [
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/cache8/mhealth/fold2_seed13_part00.csv.gz",
+    "cases": 45,
+    "methods": [
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/cache16/wisdm/fold0_seed13_part00.csv.gz",
+    "cases": 232,
+    "methods": [
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/cache16/wisdm/fold0_seed13_part01.csv.gz",
+    "cases": 23,
+    "methods": [
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/cache16/wisdm/fold1_seed13_part00.csv.gz",
+    "cases": 232,
+    "methods": [
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/cache16/wisdm/fold1_seed13_part01.csv.gz",
+    "cases": 23,
+    "methods": [
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/cache16/wisdm/fold2_seed13_part00.csv.gz",
+    "cases": 232,
+    "methods": [
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/cache16/wisdm/fold2_seed13_part01.csv.gz",
+    "cases": 23,
+    "methods": [
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/cache16/mhealth/fold0_seed13_part00.csv.gz",
+    "cases": 60,
+    "methods": [
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/cache16/mhealth/fold1_seed13_part00.csv.gz",
+    "cases": 45,
+    "methods": [
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/cache16/mhealth/fold2_seed13_part00.csv.gz",
+    "cases": 45,
+    "methods": [
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/scalar/wisdm/fold0_seed13_part00.csv.gz",
+    "cases": 232,
+    "methods": [
+      "tap_equal",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/scalar/wisdm/fold0_seed13_part01.csv.gz",
+    "cases": 23,
+    "methods": [
+      "tap_equal",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/scalar/wisdm/fold1_seed13_part00.csv.gz",
+    "cases": 232,
+    "methods": [
+      "tap_equal",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/scalar/wisdm/fold1_seed13_part01.csv.gz",
+    "cases": 23,
+    "methods": [
+      "tap_equal",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/scalar/wisdm/fold2_seed13_part00.csv.gz",
+    "cases": 232,
+    "methods": [
+      "tap_equal",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/scalar/wisdm/fold2_seed13_part01.csv.gz",
+    "cases": 23,
+    "methods": [
+      "tap_equal",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/scalar/mhealth/fold0_seed13_part00.csv.gz",
+    "cases": 60,
+    "methods": [
+      "tap_equal",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/scalar/mhealth/fold1_seed13_part00.csv.gz",
+    "cases": 45,
+    "methods": [
+      "tap_equal",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/scalar/mhealth/fold2_seed13_part00.csv.gz",
+    "cases": 45,
+    "methods": [
+      "tap_equal",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/m33/wisdm/fold0_seed13_part00.csv.gz",
+    "cases": 232,
+    "methods": [
+      "tap_equal",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/m33/wisdm/fold0_seed13_part01.csv.gz",
+    "cases": 23,
+    "methods": [
+      "tap_equal",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/m33/wisdm/fold1_seed13_part00.csv.gz",
+    "cases": 232,
+    "methods": [
+      "tap_equal",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/m33/wisdm/fold1_seed13_part01.csv.gz",
+    "cases": 23,
+    "methods": [
+      "tap_equal",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/m33/wisdm/fold2_seed13_part00.csv.gz",
+    "cases": 232,
+    "methods": [
+      "tap_equal",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/m33/wisdm/fold2_seed13_part01.csv.gz",
+    "cases": 23,
+    "methods": [
+      "tap_equal",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/m33/mhealth/fold0_seed13_part00.csv.gz",
+    "cases": 60,
+    "methods": [
+      "tap_equal",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/m33/mhealth/fold1_seed13_part00.csv.gz",
+    "cases": 45,
+    "methods": [
+      "tap_equal",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/m33/mhealth/fold2_seed13_part00.csv.gz",
+    "cases": 45,
+    "methods": [
+      "tap_equal",
+      "age_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/horizon8/wisdm/fold0_seed13_part00.csv.gz",
+    "cases": 232,
+    "methods": [
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/horizon8/wisdm/fold0_seed13_part01.csv.gz",
+    "cases": 23,
+    "methods": [
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/horizon8/wisdm/fold1_seed13_part00.csv.gz",
+    "cases": 232,
+    "methods": [
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/horizon8/wisdm/fold1_seed13_part01.csv.gz",
+    "cases": 23,
+    "methods": [
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/horizon8/wisdm/fold2_seed13_part00.csv.gz",
+    "cases": 232,
+    "methods": [
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/horizon8/wisdm/fold2_seed13_part01.csv.gz",
+    "cases": 23,
+    "methods": [
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/horizon8/mhealth/fold0_seed13_part00.csv.gz",
+    "cases": 60,
+    "methods": [
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/horizon8/mhealth/fold1_seed13_part00.csv.gz",
+    "cases": 45,
+    "methods": [
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/horizon8/mhealth/fold2_seed13_part00.csv.gz",
+    "cases": 45,
+    "methods": [
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/horizon24/wisdm/fold0_seed13_part00.csv.gz",
+    "cases": 232,
+    "methods": [
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/horizon24/wisdm/fold0_seed13_part01.csv.gz",
+    "cases": 23,
+    "methods": [
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/horizon24/wisdm/fold1_seed13_part00.csv.gz",
+    "cases": 232,
+    "methods": [
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/horizon24/wisdm/fold1_seed13_part01.csv.gz",
+    "cases": 23,
+    "methods": [
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/horizon24/wisdm/fold2_seed13_part00.csv.gz",
+    "cases": 232,
+    "methods": [
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/horizon24/wisdm/fold2_seed13_part01.csv.gz",
+    "cases": 23,
+    "methods": [
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/horizon24/mhealth/fold0_seed13_part00.csv.gz",
+    "cases": 60,
+    "methods": [
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/horizon24/mhealth/fold1_seed13_part00.csv.gz",
+    "cases": 45,
+    "methods": [
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/horizon24/mhealth/fold2_seed13_part00.csv.gz",
+    "cases": 45,
+    "methods": [
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/append0/wisdm/fold0_seed13_part00.csv.gz",
+    "cases": 119,
+    "methods": [
+      "recent_replay"
+    ]
+  },
+  {
+    "path": "events/append0/wisdm/fold1_seed13_part00.csv.gz",
+    "cases": 119,
+    "methods": [
+      "recent_replay"
+    ]
+  },
+  {
+    "path": "events/append0/wisdm/fold2_seed13_part00.csv.gz",
+    "cases": 119,
+    "methods": [
+      "recent_replay"
+    ]
+  },
+  {
+    "path": "events/append0/mhealth/fold0_seed13_part00.csv.gz",
+    "cases": 28,
+    "methods": [
+      "recent_replay"
+    ]
+  },
+  {
+    "path": "events/append0/mhealth/fold1_seed13_part00.csv.gz",
+    "cases": 21,
+    "methods": [
+      "recent_replay"
+    ]
+  },
+  {
+    "path": "events/append0/mhealth/fold2_seed13_part00.csv.gz",
+    "cases": 21,
+    "methods": [
+      "recent_replay"
+    ]
+  },
+  {
+    "path": "events/append8/wisdm/fold0_seed13_part00.csv.gz",
+    "cases": 119,
+    "methods": [
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/append8/wisdm/fold1_seed13_part00.csv.gz",
+    "cases": 119,
+    "methods": [
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/append8/wisdm/fold2_seed13_part00.csv.gz",
+    "cases": 119,
+    "methods": [
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/append8/mhealth/fold0_seed13_part00.csv.gz",
+    "cases": 28,
+    "methods": [
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/append8/mhealth/fold1_seed13_part00.csv.gz",
+    "cases": 21,
+    "methods": [
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/append8/mhealth/fold2_seed13_part00.csv.gz",
+    "cases": 21,
+    "methods": [
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/renode_check/wisdm/fold0_seed13_part00.csv.gz",
+    "cases": 85,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/renode_check/wisdm/fold1_seed13_part00.csv.gz",
+    "cases": 85,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/renode_check/wisdm/fold2_seed13_part00.csv.gz",
+    "cases": 85,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/renode_check/mhealth/fold0_seed13_part00.csv.gz",
+    "cases": 20,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/renode_check/mhealth/fold1_seed13_part00.csv.gz",
+    "cases": 15,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  },
+  {
+    "path": "events/renode_check/mhealth/fold2_seed13_part00.csv.gz",
+    "cases": 15,
+    "methods": [
+      "replay",
+      "tap_equal",
+      "recent_replay",
+      "accumulator"
+    ]
+  }
+]

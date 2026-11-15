@@ -1,0 +1,67 @@
+{
+  "models": 18,
+  "folds_per_dataset": 3,
+  "seeds_per_fold": 3,
+  "arm_runs": 168236,
+  "arm_score_pairs": 260037840,
+  "arm_mismatches": 0,
+  "renode_runs": 1220,
+  "renode_score_pairs": 2034480,
+  "unicorn_runs": 167016,
+  "unicorn_score_pairs": 258003360,
+  "emulator_matched_runs": 1220,
+  "emulator_median_instruction_difference_pct": 0.07322431048453759,
+  "native_streams": 2025,
+  "native_score_pairs": 202334328,
+  "native_mismatches": 0,
+  "methods": 14,
+  "ablation_comparisons": 8,
+  "per_dataset": {
+    "wisdm": {
+      "clips": 162,
+      "subjects": 51,
+      "all_vs_temporal_pct": 43.0075497260589,
+      "all_vs_tap_pct": 5.152349216472323,
+      "recent_vs_tap_pct": 40.90122957331328,
+      "renode_recent_vs_tap_pct": 40.19427883705862,
+      "recent_vs_recompute_pct": 40.504398832505544,
+      "recent_vs_layer_replay_pct": 49.434736756703415,
+      "recent_vs_tap_bootstrap_low_pct": 40.52236443823853,
+      "recent_vs_tap_bootstrap_high_pct": 41.5133500805382,
+      "optimized_build_append_change_pct": -11.693909264004416,
+      "controlled_append_overhead_pct": 0.5219844120827172,
+      "controlled_break_even_repairs_per_100_appends": 0.36024881942983566,
+      "max_cache_sram_bytes": 7372,
+      "max_no_cache_sram_bytes": 5322,
+      "cache_policy_break_even_pct": {
+        "cache4": 0.0,
+        "cache8": 0.0,
+        "cache16": 0.0
+      },
+      "int8_accuracy_pct": 45.99876450706907
+    },
+    "mhealth": {
+      "clips": 108,
+      "subjects": 10,
+      "all_vs_temporal_pct": 50.93998516820392,
+      "all_vs_tap_pct": 13.126311511607117,
+      "recent_vs_tap_pct": 42.36104712269639,
+      "renode_recent_vs_tap_pct": 42.414289722338765,
+      "recent_vs_recompute_pct": 41.95116649381856,
+      "recent_vs_layer_replay_pct": 56.72666075460414,
+      "recent_vs_tap_bootstrap_low_pct": 42.33554969604034,
+      "recent_vs_tap_bootstrap_high_pct": 42.400956315511934,
+      "optimized_build_append_change_pct": -11.812300078325288,
+      "controlled_append_overhead_pct": 0.5764545884106244,
+      "controlled_break_even_repairs_per_100_appends": 0.39813511524106504,
+      "max_cache_sram_bytes": 7528,
+      "max_no_cache_sram_bytes": 5444,
+      "cache_policy_break_even_pct": {
+        "cache4": 0.0,
+        "cache8": 0.0,
+        "cache16": 0.0
+      },
+      "int8_accuracy_pct": 56.72882373113854
+    }
+  }
+}
