@@ -30,34 +30,3 @@ The main comparison times identical compiled firmware variants on Unicorn's Cort
 | Participant-covering replay clips | [Data attribution](replay_clips/ATTRIBUTION.md) |
 | Publication graphics | [Vector PDF, SVG, and PNG](figures/v2/) |
 
-## Reproduce the revised study
-
-The tested environment is Linux x86-64, Python 3.12, Arm GNU Toolchain 14.2.1, Renode 1.17.0, and Unicorn 2.1.4. Put `arm-none-eabi-gcc`, `arm-none-eabi-nm`, and `renode` on `PATH` or set `ARM_GCC`, `ARM_NM`, and `RENODE` to executable paths. The trained weights and CC BY 4.0 excerpts support offline execution after the tools have been installed.
-
-```bash
-python3.12 -m venv .venv
-source .venv/bin/activate
-python -m pip install -r requirements.txt
-python -m unittest discover -s tests -v
-python -m tinyml.counter_check
-python -m tinyml.study_v2 --workers 3
-python -m tinyml.native_v2 --workers 3
-python -m tinyml.analysis_v2
-```
-
-For one model, run `python -m tinyml.study_v2 --cohorts main --dataset wisdm --fold 0 --seed 13`. With the delivered archive, `python -m tinyml.analysis_v2` regenerates the figures and tables without re-executing the CPU benchmarks. The full study can resume completed batches with `--reuse`. Run without that flag after changing kernels or models.
-
-To regenerate the training and replay inputs from their original UCI archives:
-
-```bash
-python -m pip install -r requirements-train.txt
-python -m tinyml.data
-python -m tinyml.folds
-python -m tinyml.train_folds --workers 3
-```
-
-The three revised notebooks include saved outputs. `TINYML_NOTEBOOK_REBUILD=1` requests model training in notebook 05 and a fresh two-emulator confirmation slice in notebook 06. Notebook 07 regenerates the figures from all archived trial records. Notebook execution can be limited with `python scripts/execute_notebooks.py --match 06`.
-
-## Original single-split study
-
-The original tests, event data, committed figures, and notebooks 01–04 are included for comparison. Use `python -m tinyml.evaluate --backend native`, `python -m tinyml.evaluate --backend renode`, and `python -m tinyml.analysis` for that study. Its setup and results are recorded in [the original README](docs/original_readme.md). The two studies train different models and use different test partitions.
