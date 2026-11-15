@@ -1,0 +1,145 @@
+dataset,fold,seed,trials,median_pct,p05_pct,win_pct,mean_repair_saved,mean_append_added,comparison,candidate,reference,cohort
+mhealth,0,13,756,0.07950,0.01479,96.42857,89.02646,0.00000,Age-indexed masks,age_equal,tap_equal,main
+mhealth,0,37,756,0.07960,0.01480,96.42857,89.11111,0.00000,Age-indexed masks,age_equal,tap_equal,main
+mhealth,0,73,756,0.07954,0.01479,96.42857,88.90476,0.00000,Age-indexed masks,age_equal,tap_equal,main
+mhealth,1,13,756,0.07978,0.01481,96.82540,89.11905,0.00000,Age-indexed masks,age_equal,tap_equal,main
+mhealth,1,37,756,0.07968,0.01479,96.82540,88.98016,0.00000,Age-indexed masks,age_equal,tap_equal,main
+mhealth,1,73,756,0.07973,0.01480,96.82540,89.10317,0.00000,Age-indexed masks,age_equal,tap_equal,main
+mhealth,2,13,756,0.07971,0.01482,97.08995,89.52646,0.00000,Age-indexed masks,age_equal,tap_equal,main
+mhealth,2,37,756,0.07969,0.01482,97.08995,89.66799,0.00000,Age-indexed masks,age_equal,tap_equal,main
+mhealth,2,73,756,0.07962,0.01480,97.08995,89.68122,0.00000,Age-indexed masks,age_equal,tap_equal,main
+wisdm,0,13,1134,0.06543,0.00843,94.97354,89.34832,0.00000,Age-indexed masks,age_equal,tap_equal,main
+wisdm,0,37,1134,0.06554,0.00879,94.97354,89.41799,0.00000,Age-indexed masks,age_equal,tap_equal,main
+wisdm,0,73,1134,0.06538,0.00730,94.97354,89.38448,0.00000,Age-indexed masks,age_equal,tap_equal,main
+wisdm,1,13,1134,0.05255,0.00000,90.91711,85.28660,0.00000,Age-indexed masks,age_equal,tap_equal,main
+wisdm,1,37,1134,0.05171,0.00000,90.91711,85.33069,0.00000,Age-indexed masks,age_equal,tap_equal,main
+wisdm,1,73,1134,0.05245,0.00000,90.91711,85.23545,0.00000,Age-indexed masks,age_equal,tap_equal,main
+wisdm,2,13,1134,0.05003,0.00000,88.18342,82.66931,0.00000,Age-indexed masks,age_equal,tap_equal,main
+wisdm,2,37,1134,0.05075,0.00000,88.18342,82.69312,0.00000,Age-indexed masks,age_equal,tap_equal,main
+wisdm,2,73,1134,0.04951,0.00000,88.18342,82.69312,0.00000,Age-indexed masks,age_equal,tap_equal,main
+mhealth,0,13,20,0.53738,0.36282,100.00000,303.40000,0.00000,Recent single-update entry,recent_replay,age_equal,ablation
+mhealth,0,37,20,0.53711,0.36231,100.00000,299.80000,0.00000,Recent single-update entry,recent_replay,age_equal,ablation
+mhealth,0,73,20,0.53509,0.36279,100.00000,294.80000,0.00000,Recent single-update entry,recent_replay,age_equal,ablation
+mhealth,1,13,15,0.53863,0.36917,100.00000,265.86667,0.00000,Recent single-update entry,recent_replay,age_equal,ablation
+mhealth,1,37,15,0.53805,0.36991,100.00000,257.53333,0.00000,Recent single-update entry,recent_replay,age_equal,ablation
+mhealth,1,73,15,0.53769,0.36045,100.00000,246.60000,0.00000,Recent single-update entry,recent_replay,age_equal,ablation
+mhealth,2,13,15,0.53772,0.36339,100.00000,257.13333,0.00000,Recent single-update entry,recent_replay,age_equal,ablation
+mhealth,2,37,15,0.53772,0.36122,100.00000,261.93333,0.00000,Recent single-update entry,recent_replay,age_equal,ablation
+mhealth,2,73,15,0.53795,0.38978,100.00000,258.20000,0.00000,Recent single-update entry,recent_replay,age_equal,ablation
+wisdm,0,13,85,0.51262,0.34848,100.00000,283.09412,0.00000,Recent single-update entry,recent_replay,age_equal,ablation
+wisdm,0,37,85,0.51291,0.34981,100.00000,283.41176,0.00000,Recent single-update entry,recent_replay,age_equal,ablation
+wisdm,0,73,85,0.51212,0.34963,100.00000,282.55294,0.00000,Recent single-update entry,recent_replay,age_equal,ablation
+wisdm,1,13,85,0.51253,0.34823,100.00000,298.65882,0.00000,Recent single-update entry,recent_replay,age_equal,ablation
+wisdm,1,37,85,0.51285,0.35013,100.00000,300.47059,0.00000,Recent single-update entry,recent_replay,age_equal,ablation
+wisdm,1,73,85,0.51226,0.34984,100.00000,299.05882,0.00000,Recent single-update entry,recent_replay,age_equal,ablation
+wisdm,2,13,85,0.51299,0.35003,100.00000,266.37647,0.00000,Recent single-update entry,recent_replay,age_equal,ablation
+wisdm,2,37,85,0.51316,0.35028,100.00000,266.07059,0.00000,Recent single-update entry,recent_replay,age_equal,ablation
+wisdm,2,73,85,0.51270,0.35013,100.00000,267.69412,0.00000,Recent single-update entry,recent_replay,age_equal,ablation
+mhealth,0,13,20,41.90179,41.58426,100.00000,27152.65000,0.00000,Accumulator reuse,accumulator,no_delta,ablation
+mhealth,0,37,20,43.11761,41.74252,100.00000,26981.25000,0.00000,Accumulator reuse,accumulator,no_delta,ablation
+mhealth,0,73,20,43.40106,41.68607,100.00000,26633.15000,0.00000,Accumulator reuse,accumulator,no_delta,ablation
+mhealth,1,13,15,41.89319,0.00000,86.66667,23293.86667,0.00000,Accumulator reuse,accumulator,no_delta,ablation
+mhealth,1,37,15,41.74027,0.00000,86.66667,22265.40000,0.00000,Accumulator reuse,accumulator,no_delta,ablation
+mhealth,1,73,15,41.69165,0.00000,86.66667,22105.60000,0.00000,Accumulator reuse,accumulator,no_delta,ablation
+mhealth,2,13,15,41.98469,0.00000,86.66667,22480.40000,0.00000,Accumulator reuse,accumulator,no_delta,ablation
+mhealth,2,37,15,41.93103,0.00000,86.66667,23072.06667,0.00000,Accumulator reuse,accumulator,no_delta,ablation
+mhealth,2,73,15,41.95151,0.00000,86.66667,21205.40000,0.00000,Accumulator reuse,accumulator,no_delta,ablation
+wisdm,0,13,85,40.06248,0.00000,90.58824,26069.89412,0.00000,Accumulator reuse,accumulator,no_delta,ablation
+wisdm,0,37,85,40.07392,0.00000,90.58824,25848.97647,0.00000,Accumulator reuse,accumulator,no_delta,ablation
+wisdm,0,73,85,40.13655,0.00000,90.58824,26038.88235,0.00000,Accumulator reuse,accumulator,no_delta,ablation
+wisdm,1,13,85,40.11987,39.77673,96.47059,27913.37647,0.00000,Accumulator reuse,accumulator,no_delta,ablation
+wisdm,1,37,85,40.09421,39.77035,96.47059,27748.95294,0.00000,Accumulator reuse,accumulator,no_delta,ablation
+wisdm,1,73,85,40.11796,39.51972,96.47059,27686.96471,0.00000,Accumulator reuse,accumulator,no_delta,ablation
+wisdm,2,13,85,40.04807,0.00000,85.88235,23707.96471,0.00000,Accumulator reuse,accumulator,no_delta,ablation
+wisdm,2,37,85,39.98598,0.00000,85.88235,23289.04706,0.00000,Accumulator reuse,accumulator,no_delta,ablation
+wisdm,2,73,85,40.04521,0.00000,85.88235,23648.10588,0.00000,Accumulator reuse,accumulator,no_delta,ablation
+mhealth,0,13,20,0.83736,0.61392,100.00000,274.85000,0.00000,Recent accumulator dispatch,accumulator,generic,ablation
+mhealth,0,37,20,0.83744,0.61448,100.00000,269.75000,0.00000,Recent accumulator dispatch,accumulator,generic,ablation
+mhealth,0,73,20,0.83536,0.61335,100.00000,263.50000,0.00000,Recent accumulator dispatch,accumulator,generic,ablation
+mhealth,1,13,15,0.83736,0.62402,100.00000,240.00000,0.00000,Recent accumulator dispatch,accumulator,generic,ablation
+mhealth,1,37,15,0.83620,0.61694,100.00000,230.86667,0.00000,Recent accumulator dispatch,accumulator,generic,ablation
+mhealth,1,73,15,0.83513,0.59039,100.00000,217.60000,0.00000,Recent accumulator dispatch,accumulator,generic,ablation
+mhealth,2,13,15,0.83802,0.59546,100.00000,229.80000,0.00000,Recent accumulator dispatch,accumulator,generic,ablation
+mhealth,2,37,15,0.83702,0.61197,100.00000,236.60000,0.00000,Recent accumulator dispatch,accumulator,generic,ablation
+mhealth,2,73,15,0.83830,0.62482,100.00000,230.00000,0.00000,Recent accumulator dispatch,accumulator,generic,ablation
+wisdm,0,13,85,0.78197,0.58964,100.00000,264.01176,0.00000,Recent accumulator dispatch,accumulator,generic,ablation
+wisdm,0,37,85,0.78309,0.59077,100.00000,264.54118,0.00000,Recent accumulator dispatch,accumulator,generic,ablation
+wisdm,0,73,85,0.78227,0.59032,100.00000,262.72941,0.00000,Recent accumulator dispatch,accumulator,generic,ablation
+wisdm,1,13,85,0.78265,0.58924,100.00000,277.91765,0.00000,Recent accumulator dispatch,accumulator,generic,ablation
+wisdm,1,37,85,0.78288,0.59137,100.00000,280.38824,0.00000,Recent accumulator dispatch,accumulator,generic,ablation
+wisdm,1,73,85,0.78184,0.59034,100.00000,278.27059,0.00000,Recent accumulator dispatch,accumulator,generic,ablation
+wisdm,2,13,85,0.78381,0.59084,100.00000,248.25882,0.00000,Recent accumulator dispatch,accumulator,generic,ablation
+wisdm,2,37,85,0.78331,0.59125,100.00000,247.60000,0.00000,Recent accumulator dispatch,accumulator,generic,ablation
+wisdm,2,73,85,0.78315,0.59037,100.00000,250.01176,0.00000,Recent accumulator dispatch,accumulator,generic,ablation
+mhealth,0,13,16,0.00000,0.00000,0.00000,0.00000,0.00000,Full replay for three changed taps,accumulator,all_taps,ablation
+mhealth,0,37,16,0.00000,0.00000,0.00000,0.00000,0.00000,Full replay for three changed taps,accumulator,all_taps,ablation
+mhealth,0,73,16,0.00000,0.00000,0.00000,0.00000,0.00000,Full replay for three changed taps,accumulator,all_taps,ablation
+mhealth,1,13,12,0.00000,0.00000,0.00000,0.00000,0.00000,Full replay for three changed taps,accumulator,all_taps,ablation
+mhealth,1,37,12,0.00000,0.00000,0.00000,0.00000,0.00000,Full replay for three changed taps,accumulator,all_taps,ablation
+mhealth,1,73,12,0.00000,0.00000,0.00000,0.00000,0.00000,Full replay for three changed taps,accumulator,all_taps,ablation
+mhealth,2,13,12,0.00000,0.00000,0.00000,0.00000,0.00000,Full replay for three changed taps,accumulator,all_taps,ablation
+mhealth,2,37,12,0.00000,0.00000,0.00000,0.00000,0.00000,Full replay for three changed taps,accumulator,all_taps,ablation
+mhealth,2,73,12,0.00000,0.00000,0.00000,0.00000,0.00000,Full replay for three changed taps,accumulator,all_taps,ablation
+wisdm,0,13,68,0.00000,0.00000,0.00000,0.00000,0.00000,Full replay for three changed taps,accumulator,all_taps,ablation
+wisdm,0,37,68,0.00000,0.00000,0.00000,0.00000,0.00000,Full replay for three changed taps,accumulator,all_taps,ablation
+wisdm,0,73,68,0.00000,0.00000,0.00000,0.00000,0.00000,Full replay for three changed taps,accumulator,all_taps,ablation
+wisdm,1,13,68,0.00000,0.00000,0.00000,0.00000,0.00000,Full replay for three changed taps,accumulator,all_taps,ablation
+wisdm,1,37,68,0.00000,0.00000,0.00000,0.00000,0.00000,Full replay for three changed taps,accumulator,all_taps,ablation
+wisdm,1,73,68,0.00000,0.00000,0.00000,0.00000,0.00000,Full replay for three changed taps,accumulator,all_taps,ablation
+wisdm,2,13,68,0.00000,0.00000,0.00000,0.00000,0.00000,Full replay for three changed taps,accumulator,all_taps,ablation
+wisdm,2,37,68,0.00000,0.00000,0.00000,0.00000,0.00000,Full replay for three changed taps,accumulator,all_taps,ablation
+wisdm,2,73,68,0.00000,0.00000,0.00000,0.00000,0.00000,Full replay for three changed taps,accumulator,all_taps,ablation
+mhealth,0,13,16,-0.63236,-2.08323,37.50000,-1631.62500,0.00000,Exact activation equality,accumulator,no_equal,ablation
+mhealth,0,37,16,0.00000,-1.96492,31.25000,123.56250,0.00000,Exact activation equality,accumulator,no_equal,ablation
+mhealth,0,73,16,-0.38069,-2.07615,43.75000,-87.56250,0.00000,Exact activation equality,accumulator,no_equal,ablation
+mhealth,1,13,12,0.26617,-1.99896,50.00000,6195.66667,0.00000,Exact activation equality,accumulator,no_equal,ablation
+mhealth,1,37,12,2.50520,-1.99703,66.66667,14370.08333,0.00000,Exact activation equality,accumulator,no_equal,ablation
+mhealth,1,73,12,4.91964,-1.99526,66.66667,28565.83333,0.00000,Exact activation equality,accumulator,no_equal,ablation
+mhealth,2,13,12,1.51479,-1.81494,75.00000,17177.83333,0.00000,Exact activation equality,accumulator,no_equal,ablation
+mhealth,2,37,12,0.91615,-1.99860,58.33333,7313.33333,0.00000,Exact activation equality,accumulator,no_equal,ablation
+mhealth,2,73,12,0.36780,-1.99507,50.00000,9279.08333,0.00000,Exact activation equality,accumulator,no_equal,ablation
+wisdm,0,13,68,0.00000,-1.85190,32.35294,2135.98529,0.00000,Exact activation equality,accumulator,no_equal,ablation
+wisdm,0,37,68,0.00000,-1.85048,38.23529,4323.83824,0.00000,Exact activation equality,accumulator,no_equal,ablation
+wisdm,0,73,68,0.00000,-1.84890,47.05882,3987.30882,0.00000,Exact activation equality,accumulator,no_equal,ablation
+wisdm,1,13,68,0.00000,-1.85178,27.94118,1188.86765,0.00000,Exact activation equality,accumulator,no_equal,ablation
+wisdm,1,37,68,0.00000,-1.85132,17.64706,-1102.00000,0.00000,Exact activation equality,accumulator,no_equal,ablation
+wisdm,1,73,68,0.00000,-1.84942,26.47059,1875.02941,0.00000,Exact activation equality,accumulator,no_equal,ablation
+wisdm,2,13,68,0.00000,-1.84990,27.94118,899.33824,0.00000,Exact activation equality,accumulator,no_equal,ablation
+wisdm,2,37,68,0.00000,-1.85187,19.11765,-592.07353,0.00000,Exact activation equality,accumulator,no_equal,ablation
+wisdm,2,73,68,0.00000,-1.85155,26.47059,1983.19118,0.00000,Exact activation equality,accumulator,no_equal,ablation
+mhealth,0,13,16,54.61521,38.34342,100.00000,588573.50000,0.00000,Batch application,recent_replay,serial,ablation
+mhealth,0,37,16,54.50712,37.87724,100.00000,583391.25000,0.00000,Batch application,recent_replay,serial,ablation
+mhealth,0,73,16,54.66642,37.30472,100.00000,585353.68750,0.00000,Batch application,recent_replay,serial,ablation
+mhealth,1,13,12,52.47631,25.83414,100.00000,478490.83333,0.00000,Batch application,recent_replay,serial,ablation
+mhealth,1,37,12,54.31912,26.23151,100.00000,449109.50000,0.00000,Batch application,recent_replay,serial,ablation
+mhealth,1,73,12,49.77594,18.16395,100.00000,433068.41667,0.00000,Batch application,recent_replay,serial,ablation
+mhealth,2,13,12,50.52301,34.02752,100.00000,484024.50000,0.00000,Batch application,recent_replay,serial,ablation
+mhealth,2,37,12,45.16054,33.67853,100.00000,446069.25000,0.00000,Batch application,recent_replay,serial,ablation
+mhealth,2,73,12,48.36091,32.15078,100.00000,459993.33333,0.00000,Batch application,recent_replay,serial,ablation
+wisdm,0,13,68,60.97507,23.96528,97.05882,815154.20588,0.00000,Batch application,recent_replay,serial,ablation
+wisdm,0,37,68,61.10361,28.12766,97.05882,797855.11765,0.00000,Batch application,recent_replay,serial,ablation
+wisdm,0,73,68,60.91055,22.73779,97.05882,808307.20588,0.00000,Batch application,recent_replay,serial,ablation
+wisdm,1,13,68,60.90855,22.48191,98.52941,817580.72059,0.00000,Batch application,recent_replay,serial,ablation
+wisdm,1,37,68,60.85394,22.56156,98.52941,822912.60294,0.00000,Batch application,recent_replay,serial,ablation
+wisdm,1,73,68,61.05894,22.31679,98.52941,818818.23529,0.00000,Batch application,recent_replay,serial,ablation
+wisdm,2,13,68,60.17232,-0.85321,89.70588,691550.42647,0.00000,Batch application,recent_replay,serial,ablation
+wisdm,2,37,68,59.11182,-0.85321,89.70588,692858.52941,0.00000,Batch application,recent_replay,serial,ablation
+wisdm,2,73,68,60.78739,-0.85321,89.70588,693763.95588,0.00000,Batch application,recent_replay,serial,ablation
+mhealth,0,13,8,-0.00156,-0.00196,0.00000,-3.00000,0.00000,Cached fallback on older samples,accumulator,no_delta,ablation
+mhealth,0,37,8,-0.00161,-0.00208,0.00000,-3.00000,0.00000,Cached fallback on older samples,accumulator,no_delta,ablation
+mhealth,0,73,8,-0.00161,-0.00196,0.00000,-3.00000,0.00000,Cached fallback on older samples,accumulator,no_delta,ablation
+mhealth,1,13,6,-0.00156,-0.00206,0.00000,-3.00000,0.00000,Cached fallback on older samples,accumulator,no_delta,ablation
+mhealth,1,37,6,-0.00156,-0.00305,0.00000,-3.00000,0.00000,Cached fallback on older samples,accumulator,no_delta,ablation
+mhealth,1,73,6,-0.00162,-0.00333,0.00000,-3.00000,0.00000,Cached fallback on older samples,accumulator,no_delta,ablation
+mhealth,2,13,6,-0.00155,-0.00200,0.00000,-2.50000,0.00000,Cached fallback on older samples,accumulator,no_delta,ablation
+mhealth,2,37,6,-0.00137,-0.00206,0.00000,-2.50000,0.00000,Cached fallback on older samples,accumulator,no_delta,ablation
+mhealth,2,73,6,-0.00131,-0.00200,0.00000,-2.50000,0.00000,Cached fallback on older samples,accumulator,no_delta,ablation
+wisdm,0,13,34,-0.00090,-0.00140,0.00000,-2.55882,0.00000,Cached fallback on older samples,accumulator,no_delta,ablation
+wisdm,0,37,34,-0.00088,-0.00141,0.00000,-2.55882,0.00000,Cached fallback on older samples,accumulator,no_delta,ablation
+wisdm,0,73,34,-0.00096,-0.00151,0.00000,-2.55882,0.00000,Cached fallback on older samples,accumulator,no_delta,ablation
+wisdm,1,13,34,-0.00093,-0.00133,0.00000,-2.64706,0.00000,Cached fallback on older samples,accumulator,no_delta,ablation
+wisdm,1,37,34,-0.00094,-0.00130,0.00000,-2.64706,0.00000,Cached fallback on older samples,accumulator,no_delta,ablation
+wisdm,1,73,34,-0.00093,-0.00137,0.00000,-2.64706,0.00000,Cached fallback on older samples,accumulator,no_delta,ablation
+wisdm,2,13,34,-0.00087,-0.00135,0.00000,-2.29412,0.00000,Cached fallback on older samples,accumulator,no_delta,ablation
+wisdm,2,37,34,-0.00087,-0.00144,0.00000,-2.29412,0.00000,Cached fallback on older samples,accumulator,no_delta,ablation
+wisdm,2,73,34,-0.00087,-0.00143,0.00000,-2.29412,0.00000,Cached fallback on older samples,accumulator,no_delta,ablation

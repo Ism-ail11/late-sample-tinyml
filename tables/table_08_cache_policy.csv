@@ -1,0 +1,7 @@
+dataset,profile,paired_recent_repairs,append_change_instructions,repair_instructions_saved,break_even_repairs_per_100_appends,max_method_sram,max_cache_free_sram
+wisdm,cache4,306,-2444.000000,15839.382353,0.000000,6572,5322
+mhealth,cache4,60,-2355.000000,14482.600000,0.000000,6728,5444
+wisdm,cache8,306,-2444.000000,23408.441176,0.000000,7372,5322
+mhealth,cache8,60,-2355.000000,23029.016667,0.000000,7528,5444
+wisdm,cache16,306,-2444.000000,23408.441176,0.000000,8924,5322
+mhealth,cache16,60,-2355.000000,23367.683333,0.000000,9080,5444

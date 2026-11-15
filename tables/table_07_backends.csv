@@ -1,0 +1,9 @@
+dataset,mode,matched,median_difference_pct,largest_difference_pct,median_append_difference_pct
+wisdm,replay,255,0.0664803,1.9801980,0.1136364
+wisdm,tap_equal,255,0.0660159,1.9801980,0.1136364
+wisdm,recent_replay,255,0.0687804,2.8985507,0.1136364
+wisdm,accumulator,255,0.5899962,2.8985507,0.1136364
+mhealth,replay,50,0.0633362,0.9900990,0.1135880
+mhealth,tap_equal,50,0.0624542,0.9900990,0.1135880
+mhealth,recent_replay,50,0.0655045,1.4492754,0.1135880
+mhealth,accumulator,50,0.7306074,1.4492754,0.1135880

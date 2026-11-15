@@ -1,0 +1,11 @@
+dataset,workload,streams,score_pairs,accepted,expired,labels_revised
+mhealth,bursts_20pct,162,6477408,1296,0,1046
+mhealth,expiry_stress,162,10188864,1167,918,319
+mhealth,isolated_20pct,162,27391392,5742,0,595
+mhealth,isolated_5pct,162,7465248,1506,0,150
+mhealth,mixed_10pct,162,10711008,2196,0,717
+wisdm,bursts_20pct,243,14531832,1938,0,3208
+wisdm,expiry_stress,243,22914360,1761,1365,1444
+wisdm,isolated_20pct,243,61672968,8619,0,1811
+wisdm,isolated_5pct,243,16775640,2256,0,462
+wisdm,mixed_10pct,243,24205608,3309,0,2722
