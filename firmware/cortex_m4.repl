@@ -1,0 +1,13 @@
+// Cortex-M4 CPU and memory map used by this bare-metal benchmark.
+flash: Memory.MappedMemory @ sysbus 0x08000000
+    size: 0x100000
+
+sram: Memory.MappedMemory @ sysbus 0x20000000
+    size: 0x20000
+
+nvic: IRQControllers.NVIC @ sysbus 0xE000E000
+    -> cpu@0
+
+cpu: CPU.CortexM @ sysbus
+    cpuType: "cortex-m4"
+    nvic: nvic
