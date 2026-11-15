@@ -1,0 +1,36 @@
+[study]
+seeds = [13, 37, 73]
+split_seed = 20261114
+trace_seed = 84291
+widths = [12, 12, 16]
+dilations = [1, 4, 16]
+window = 96
+horizon = 48
+short_horizons = [8, 24]
+clip_length = 120
+arrival_tick = 107
+delay_grid = [1, 2, 4, 8, 12, 16, 24, 32, 40, 48]
+burst_delays = [4, 8, 16, 24, 32, 48]
+burst_sizes = [2, 4, 8]
+host_clips_per_class = 4
+renode_clips_per_class = 1
+
+[wisdm]
+display_name = "WISDM"
+sample_hz = 20
+epochs = 18
+train_cap = 20
+validation_cap = 9
+test_cap = 14
+test_subjects = 10
+validation_subjects = 7
+
+[mhealth]
+display_name = "MHEALTH"
+sample_hz = 50
+epochs = 30
+train_cap = 36
+validation_cap = 18
+test_cap = 24
+test_subjects = 3
+validation_subjects = 2
